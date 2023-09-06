@@ -1,0 +1,32 @@
+#home-page {
+    /* Photo by <a href="https://unsplash.com/@konstantinkleine?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Konstantin Kleine</a> on <a href="https://unsplash.com/photos/V1NVvXmO_dk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>*/
+    background: url('images/mountains.jpeg');
+    background-repeat: no-repeat;
+    height: 100dvh;
+    width: 100dvw;
+    display: table;
+    background-size: cover;
+}
+
+#home-page-text {
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+    color: white;
+}
+
+.nav-link, .navbar-brand, .navbar-brand:hover, .custom-txt {
+    color: white;
+}
+
+.nav-link:hover {
+    color: #D2F0FF;
+}
+
+.bg-custom-1 {
+    background-color: #829EAD ;
+}
+
+.custom-txt {
+    text-align: center;
+}
