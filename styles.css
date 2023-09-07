@@ -15,6 +15,10 @@
     color: white;
 }
 
+.navbar {
+    border-bottom: 1px solid white;
+}
+
 .nav-link, .navbar-brand, .navbar-brand:hover, .custom-txt {
     color: white;
 }
@@ -27,6 +31,10 @@
     background-color: #829EAD ;
 }
 
-.custom-txt {
+.custom-txt, .text-dark {
     text-align: center;
+}
+
+.bg-custom-2 {
+    background-color: #DDECEE;
 }
